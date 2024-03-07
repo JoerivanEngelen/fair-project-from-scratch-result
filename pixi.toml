@@ -1,0 +1,17 @@
+[project]
+name = "fair_test"
+version = "0.1.0"
+description = "Add a short description here"
+authors = ["Joeri van Engelen <joerivanengelen@hotmail.com>"]
+channels = ["conda-forge", "bioconda"]
+platforms = ["win-64"]
+
+[tasks]
+
+[dependencies]
+dvc = ">=3.48.2"
+imod = "0.15.3.*"
+jinja2-time = ">=0.2.0,<0.3"
+
+[pypi-dependencies]
+cookiecutter = "*"
