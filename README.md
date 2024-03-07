@@ -1,7 +1,8 @@
 groundwater_model
 ==============================
 
-A short description of your project
+Reproducible workflow to run a groundwater model for
+the Drentse Hondsrug
 
 Project Organization
 --------------------
