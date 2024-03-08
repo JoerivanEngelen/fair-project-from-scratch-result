@@ -12,6 +12,7 @@ platforms = ["win-64"]
 dvc = ">=3.48.2"
 imod = "0.15.3.*"
 jinja2-time = ">=0.2.0,<0.3"
+snakemake = ">=8.5.4,<8.6"
 
 [pypi-dependencies]
 cookiecutter = "*"
