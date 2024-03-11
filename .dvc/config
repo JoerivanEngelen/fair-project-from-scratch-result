@@ -1,0 +1,4 @@
+['remote "ndrive"']
+    url = n:\Deltabox\Bulletin\engelen\FAIR-data-remote-from-scratch
+['remote "postbox"']
+    url = "n:\Deltabox\Postbox\Engelen,van Joeri\DVC_remote_FAIR-data-reproducible-from-scratch"
